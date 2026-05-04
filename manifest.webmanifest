@@ -1,0 +1,12 @@
+{
+  "name": "proyecto final - Final",
+  "short_name": "proyecto final - Final",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
